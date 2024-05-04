@@ -1,6 +1,7 @@
 <center style="
   padding-top: 2rem;
   padding-bottom: 2rem;
+  width: 100%;
   display: flex;
   gap: 0.95rem;
   align-items: center;
@@ -20,8 +21,6 @@
 > Projeto em desenvolvimento :-)
 
 <br>
-<br>
-<br>
 
 
 ## Sobre
@@ -31,8 +30,6 @@ Fala **capiparinhas**!
 **Bem vindos a Achei**, onde achara o que perdeu. Nosso app busca ser uma solução simples e eficaz para aquelas situações quando você perde algo.
 
 
-<br>
-<br>
 <br>
 
 
@@ -54,9 +51,6 @@ Assim que acharem o item, basta:
 3. Correr para o abraço e ser feliz
 
 <br>
-<br>
-<br>
-
 
 ## Posso Participar?
 

@@ -1,5 +1,7 @@
 <p align="center">
-<img src="./assets/images/favicon/android-chrome-192x192.png" alt="Capypara Homes" style="border-radius: 50%;" />
+
+
+  
 </p>
 
 

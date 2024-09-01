@@ -1,59 +1,55 @@
-<center style="
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  width: 100%;
-  display: flex;
-  gap: 0.95rem;
-  align-items: center;
-  justify-content: space-evenly;
-  margin-bottom: 2rem;
-  border-bottom: 2px solid #000000a4;
-">
-
-  <h1>
-    App Achei
-  </h1>
-
-  <img src="./assets/images/favicon/android-chrome-192x192.png" alt="Capypara Homes" style="border-radius: 50%;" />
-</center>
+<p align="center">
+<img src="./assets/images/favicon/android-chrome-192x192.png" alt="Capypara Homes" style="border-radius: 50%;" />
+</p>
 
 
-> Projeto em desenvolvimento :-)
+
+```
+    _       ____     ____           _        ____   _   _  U _____ u             
+U  /"\  u U|  _"\ uU|  _"\ u    U  /"\  u U /"___| |'| |'| \| ___"|/    ___      
+ \/ _ \/  \| |_) |/\| |_) |/     \/ _ \/  \| | u  /| |_| |\ |  _|"     |_"_|     
+ / ___ \   |  __/   |  __/       / ___ \   | |/__ U|  _  |u | |___      | |      
+/_/   \_\  |_|      |_|         /_/   \_\   \____| |_| |_|  |_____|   U/| |\u    
+ \\    >>  ||>>_    ||>>_        \\    >>  _// \\  //   \\  <<   >>.-,_|___|_,-. 
+(__)  (__)(__)__)  (__)__)      (__)  (__)(__)(__)(_") ("_)(__) (__)\_)-' '-(_/  
+
+```
+
+> Projeto em desenvolvimento 😊
 
 <br>
 
 
-## Sobre
+## Sobre 🤔
 
-Fala **capiparinhas**!
+Fala **capiparinhas**! 
 
-**Bem vindos a Achei**, onde achara o que perdeu. Nosso app busca ser uma solução simples e eficaz para aquelas situações quando você perde algo.
-
+**Bem vindos a Achei**, onde achara o que perdeu. Nosso app busca ser uma solução simples e eficaz para aquelas situações quando você perde algo. 📱
 
 <br>
 
 
-## Ok! Mas como isso me ajuda?
+## Ok! Mas como isso me ajuda? 🤷‍♂️
 
-**Calma aí capivaro!**
+**Calma aí capivaro!** 🦛
 
 É simples, fizemos um passo a passo que você deve seguir:
 
-1. Fazendo login/criar a conta 
-2. Crie seu perfil
-3. Gere o QRCode do teu perfil
-4. Imprima o QRCode
-5. Cole nos objetos que você não quer perder! Por exemplo em sua bolsa.
+1. Fazendo login/criar a conta 🔑
+2. Crie seu perfil 👤
+3. Gere o QRCode do teu perfil 📤
+4. Imprima o QRCode 🖨️
+5. Cole nos objetos que você não quer perder! Por exemplo em sua bolsa. 🎒
 
 Assim que acharem o item, basta:
-1. Escanear o código QRCode, que levara a página de perfil do dono do item, lá contera os meios de contato do próprio
-2. Entrar em contato com o dono 
-3. Correr para o abraço e ser feliz
+1. Escanear o código QRCode, que levara a página de perfil do dono do item, lá contera os meios de contato do próprio 📱
+2. Entrar em contato com o dono 📞
+3. Correr para o abraço e ser feliz 🤗
 
 <br>
 
-## Posso Participar?
+## Posso Participar? 👀
 
 Caso queira participar mande uma DM no Discord ou no Email:
-- [Discord]()
-- [Email]()
+- [Discord] 💬
+- [Email] 📧
